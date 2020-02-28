@@ -1,0 +1,2 @@
+The famous algorithm I used to solve this Practice assignment is the quick sort.
+I implemented quick sort to work with an ArrayList of integers. 
